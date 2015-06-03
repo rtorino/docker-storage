@@ -1,4 +1,4 @@
 Docker Storage
 ==============
 
-*A simple storage container running Ubuntu 14.04
+*A simple storage container running Ubuntu 14.04*
